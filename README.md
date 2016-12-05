@@ -21,5 +21,7 @@
 
 - [Awesome Scala Conferences](https://github.com/eventil/awesome-scala-conferences)
 
+---
+
 > Check out a more interactive version at [Eventil](https://eventil.com/)
 
