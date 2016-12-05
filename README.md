@@ -16,3 +16,8 @@
 
 - [Awesome Python Conferences](https://github.com/eventil/awesome-python-conferences)
 
+
+### Scala
+
+- [Awesome Scala Conferences](https://github.com/eventil/awesome-scala-conferences)
+
